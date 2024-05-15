@@ -1,1 +1,1 @@
-# js-kyanamontana
+# js-pingpong
